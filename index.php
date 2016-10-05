@@ -5,9 +5,5 @@
     <title>hello world</title>
 </head>
 <body>
-<p> hello world </p>
-<?php
-echo bonjour();
-?>
 </body>
 </html>
