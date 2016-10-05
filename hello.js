@@ -1,3 +1,4 @@
-var bonjour = "bonjour";
-alert (bonjour);
+var bonjour = ("hello world"); 
+console.log( bonjour);
+
 
